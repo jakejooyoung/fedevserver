@@ -1,11 +1,11 @@
 {
-  "name": "React",
+  "name": "fedevserver",
   "version": "1.0.0",
-  "description": "React App",
+  "description": "Front-End Development Server Skeleton",
   "main": "index.js",
   "repository": "git@bitbucket.org:jakenpg/react.git",
-  "author": "Gains Research",
-  "license": "Gains Research",
+  "author": "NP Gains",
+  "license": "NP Gains",
   "dependencies": {
     "global": "^4.3.1",
     "html-webpack-plugin": "^2.28.0",
